@@ -1,0 +1,8 @@
+FINDINGS:
+An opacity is identified in the lung field. The remainder of the lung fields are clear. No pleural effusion or pneumothorax. Heart size is within normal limits.
+
+IMPRESSION:
+Finding present in lung field. Differential diagnosis includes infectious process, inflammatory change, or mass lesion.
+
+RECOMMENDATIONS:
+Clinical correlation is advised. Consider follow-up imaging or comparison with prior studies if available.
